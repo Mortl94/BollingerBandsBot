@@ -1,5 +1,6 @@
 import os
 
-path = "/home/martinfendl/bollinger2/collect.txt"
+# replace with your path
+path = "/pathtodirectory/collect.txt"
 
 os.remove(path)
